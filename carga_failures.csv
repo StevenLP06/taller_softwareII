@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+POST,POST /api/users/bulk,"CatchResponseError('HTTP 500: <!DOCTYPE html>\n<html lang=""en"" class=""auto"">\n<!--\nError: Class &quot;App\\Http\\Controllers\\Api\\Lengt')",25,2026-10-08T17:16:50Z,2026-10-08T17:25:52Z
